@@ -1,0 +1,1 @@
+html,body,#root{position:fixed;top:0;left:0;width:100%;height:100%;background:#fff;display:flex;align-items:center;justify-content:center}#CalculatorDiv{border:1px solid black;margin:auto;height:300px;width:400px;display:flex;flex-direction:column;align-items:center;justify-content:center}#CalculatorDiv button{height:40px;width:40px}
